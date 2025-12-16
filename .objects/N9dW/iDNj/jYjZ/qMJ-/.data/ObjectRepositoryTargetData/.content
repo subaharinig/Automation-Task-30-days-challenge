@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="sBSo-FnvD0Kjb-zGXUA1vQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="58ce6c11-97b9-4215-ad80-3da9f731cdd7" CvTextArea="54, 614, 853, 30" CvTextArgument="GeeksforGeeks Courses Ending: 90% Refund + 30% Off" CvType="Text" DesignTimeRectangle="57, 611, 847, 37" DesignTimeScaleFactor="1.6500000953674316" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='GeeksforGeeks Courses | Ending: 90% Refund + 30% Off' parentid='tads' tag='SPAN' type='' class='' check:innerText='GeeksforGeeks Courses | Ending: 90% Refund + 30% Off' /&gt;" Guid="6e087c90-7c05-4603-9c44-f9bfe0480010" ScopeSelectorArgument="&lt;html app='chrome.exe' title='geeks for geeks - Google Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="58ce6c11-97b9-4215-ad80-3da9f731cdd7" CvTextArea="119, 540, 165, 22" CvTextArgument="GeeksforGeeks" CvType="Text" DesignTimeRectangle="122, 539, 160, 26" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='OSrXXb' parentid='tads' tag='SPAN' type='' aaname='GeeksforGeeks' check:innerText='GeeksforGeeks' /&gt;" Guid="cd91c51e-2478-480e-9f6e-540e56e42d39" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7090c45511151c6212aa1e21f838ca33.png" xmlns="">0emqmlgWrDk-lqf87y1b8ZA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

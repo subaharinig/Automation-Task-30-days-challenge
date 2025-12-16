@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RIW4ZpKDaEO54xurDhtmdw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="makemytrip.com/flights" CVScreenId="b8fd06e9-ba0a-4803-b6b8-0200ca4c0a29" CvTextArea="887, 894, 141, 33" CvTextArgument="SEARCH" CvType="Text" DesignTimeRectangle="798, 877, 324, 66" DesignTimeScaleFactor="1.5" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Search' parentid='top-banner' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Search' parentid='top-banner' tag='A' type='' class='primaryBtn font24 latoBold widgetSearchBtn ' check:innerText='SEARCH' /&gt;" Guid="4b30bbe3-ea8b-4ea2-8f12-af6c940e0fc0" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='_new' title='Flight Booking, Cheap Flights , Air Ticket Booking at Lowest Airfare | MakeMyTrip' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="90, 549, 1740, 362" FuzzySelectorArgument="&lt;webctrl type='' class='fsw ' parentid='top-banner' tag='DIV' aaname='' check:innerText='From&amp;#xA;&amp;#xA;MAA, Chennai International Airport India&amp;#xA;&amp;#xA;⇌&amp;#xA;To&amp;#xA;&amp;#xA;BLR, Bengaluru International Airport India&amp;#xA;' /&gt;" Guid="0f2a75c6-f651-4c6e-b877-fee80e19b834" SearchSteps="FuzzySelector" />
+          <Target DesignTimeRectangle="240, 364, 1440, 121" ElementType="List" FuzzySelectorArgument="&lt;webctrl type='' tag='UL' class='makeFlex font12 headerIconsGap' aaname='' /&gt;" Guid="2ce968b3-a9e3-4ee8-81a3-b00bd3cace44" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="293cce66ddf9e3430dbb844e89033a95.png" xmlns="">0GqCt-ZbKnkO1S9lT4koncg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

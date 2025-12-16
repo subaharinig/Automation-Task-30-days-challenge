@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="0runApba_0WKVD4xXgcFJw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-11, -11, 1942, 1030" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAGnSURBVDhPnZPLLwNRFMb7lxCvBSvCAinx2DQhsRC1QSQIO00EYSNWxKILEZUQUcQjRIgIEZEuvBYULa1oO6hXS0urrXp0+pl7Fpi2i+EkX+bLuef87rk3c2Us9NlxSkFngiBRrFb5uzlWkRQpGcAckfyLTAwQa0GyvgHmagUszVXkjaVZMJZkigqPilJha2sgf5iXTDXME+CkLBv8awA+/S6Oi9PwdnOFa3UXuM4mOMYHqZB9ffs75B/mtHBOD/8ArM3VeNatwb0yh6f1JbCwqmrAB1/hXl2AQZFBG7AJTpUFgveLJ2C61fQhyJ1T85udQ8BsQDj0iauedriWZ8EH/MLoSfBsbcAxoaEeEcC7p0OYD+FxXovwxzsBfAe7uBtW0+5+wz6sLbXkDYp0MeAwNwEhvw8O7QDuR/upyFRZiOCFBaEXD01BwfNwTg59N/8A5InCxYzhKD+FLs7WVk+LDGZrrYM+Jx6X3Sqa8LRcHg2QIq6jEYEzY1ReMsC1OAXnzEhUngFMkclY8m5vRp1fEP3KFRHJmOLaG2Dv7YjMi17kP56zTPYFWftrx2wcDmoAAAAASUVORK5CYII=" Selector="&lt;html app='chrome.exe' title='Flight Booking, Cheap Flights , Air Ticket Booking at Lowest Airfare | MakeMyTrip' /&gt;" Url="https://www.makemytrip.com/flights/?cmp=SEM|D|DF|G|Generic|Generic-Generic_DT|DF_Generic_Exact|Flight_Exact|RSA|Offer5|599656990719&amp;s_kwcid=AL!1631!3!599656990719!e!!g!!online%20flight%20ticket%20booking&amp;gad_source=1&amp;gclid=Cj0KCQjw782_BhDjARIsABTv_JC4_GriW6Pfv8Yx0s8NAW4KoIm1nr75ar2DWrUGF_lyTC9S-Zbln8MaAqOdEALw_wcB" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="76975a9c54ddf7d3739ba3308d7395c4.jpg" xmlns="">0gs9z7gSrBkeQ6B52obOKXg</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

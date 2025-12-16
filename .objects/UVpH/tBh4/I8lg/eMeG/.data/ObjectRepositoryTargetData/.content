@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="hh1t6oKjjE6_ap1H43SfRw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="129300f2-e033-4810-9c2e-cfbd8c12ddde" CvElementArea="633, 570, 502, 280" CvType="InputBox" DesignTimeRectangle="661, 594, 227, 52" DesignTimeScaleFactor="1.6500000953674316" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='tw-target-text' tag='SPAN' type='' class='Y2IQFc' /&gt;" Guid="e171ea73-68ad-45d0-b0e6-b01ac719d8e0" ScopeSelectorArgument="&lt;html app='chrome.exe' title='google translate - Google Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="129300f2-e033-4810-9c2e-cfbd8c12ddde" CvElementArea="633, 570, 502, 280" CvType="InputBox" DesignTimeRectangle="635, 574, 498, 274" FuzzySelectorArgument="&lt;webctrl type='' parentid='tw-target' tag='DIV' class='g9WsWb PZPZlf' aaname='' check:innerText='Translation' /&gt;" Guid="bbd7d2d0-fb7c-46b4-9bd2-588dbcfbed22" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="854524c5939571bcff653776c919a1d9.png" xmlns="">0jvG0tXHOnUW0VRcOVuWB1A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="dwvq5kR1UkWxGi80QoLPCA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in/s" DesignTimeRectangle="788, 589, 120, 27" DesignTimeScaleFactor="1.5" FuzzySelectorArgument="&lt;webctrl type='' tag='I' class='a-icon a-icon-star-small a-star-small-4' aaname='' check:innerText='3.9 out of 5 stars' /&gt;" Guid="b0e3dcee-5f87-41b8-9f08-005d0e2b2519" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon.in : laptop' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="418, 594, 340, 275" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl class='s-image' tag='IMG' type='' aaname='Sponsored Ad - HP 15, 12th Gen Intel Core i5-1235U, 16GB DDR4, 512GB SSD, (Win 11, Office 21, Silver, 1.69kg), Anti-Glare,...' /&gt;" Guid="65c97a54-a6ad-4339-9ecd-a5efc2e1cc89" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="50db6d5000059b71d9065e38ae97bdee.png" xmlns="">0OszoOM0rQkOZu9APWGrlrw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RNcKqAoS9kiA7hxd9j4wag" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="web.whatsapp.com" CVScreenId="305ffebd-2960-49ff-8698-849e646fbc08" CvElementArea="124, 244, 535, 45" CvType="InputBox" DesignTimeRectangle="126, 246, 533, 42" DesignTimeScaleFactor="1.2000000476837158" FuzzySelectorArgument="&lt;webctrl type='' parentid='side' tag='DIV' class='x9f619 x78zum5 x6s0dn4 x1s1d1n7 xqmdsaz x1lj6vcq x1bmedo x1lq5wgf xgqcy7u x30kzoy x9jhf4c' aaname='' check:innerText='Search' /&gt;" Guid="65d5cae2-563f-46bd-9a24-a9c38c5824ac" ScopeSelectorArgument="&lt;html app='chrome.exe' title='(26) WhatsApp' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="112, 293, 561, 50" FuzzySelectorArgument="&lt;webctrl aria-role='tablist' tag='DIV' type='' class='x1ky8ojb x78zum5 x1q0g3np x1a02dak x2lah0s x3pnbk8 xfex06f xeuugli x2lwn1j x1nn3v0j x1ykpatu x1ye3gou x1pi30zi' aaname='' check:innerText='All&amp;#xA;Unread&amp;#xA;Favourites&amp;#xA;Groups' /&gt;" Guid="aa43f20b-d557-4eb1-8a7c-10f99338ef54" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3a5fd4327f6e804c97bf6ff652d3a0a6.png" xmlns="">0kQWLXVAB2kS0eeqcrpOL1Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

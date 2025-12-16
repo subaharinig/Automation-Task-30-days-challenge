@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BC9zT37w7k-ZS4y-BRwvfw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in/ap/signin" CVScreenId="db8d0a69-892b-4594-9078-937779e67475" CvElementArea="746, 501, 448, 51" CvTextArea="930, 516, 82, 19" CvTextArgument="Continue" CvType="Button" DesignTimeRectangle="750, 505, 443, 44" DesignTimeScaleFactor="1.5" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='submit' class='a-button-input' aaname='' /&gt;" Guid="9bd4583d-53c4-452e-bee5-3b7c09936dc1" ScopeSelectorArgument="&lt;html app='chrome.exe' title='amazon.in/ap/signin?openid.pape.max_auth_age=0&amp;amp;openid.return_to=https%3A%2F%2Fwww.amazon.in%2Fgp%2Fcss%2Fhomepage.html%3Fref_%3Dnav_signin&amp;amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;amp;openid.assoc_handle=inflex&amp;amp;openid.mode=checkid_setup&amp;amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="db8d0a69-892b-4594-9078-937779e67475" CvElementArea="745, 436, 452, 53" CvType="InputBox" DesignTimeRectangle="750, 439, 443, 46" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='ap_email_login' tag='INPUT' type='email' class='a-input-text' aaname='' /&gt;" Guid="7bef7962-f4af-4890-bb8e-4a54e9d6acaf" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4f535612637a50845c99781b17ea7e64.png" xmlns="">0J6gE3m_Zh0OoHl0sq4k-8Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

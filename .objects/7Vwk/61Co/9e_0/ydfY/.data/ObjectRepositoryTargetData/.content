@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PdgcoF5TbUaD_9Lu1YdNZQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in/ap/signin" CVScreenId="25c12225-06e3-4318-ae12-5a34b087afbc" CvElementArea="744, 436, 452, 53" CvType="InputBox" DesignTimeRectangle="750, 439, 443, 46" DesignTimeScaleFactor="1.5" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='ap_email_login' tag='INPUT' type='email' class='a-input-text' aaname='' /&gt;" Guid="a1bb0276-2b2d-424f-a28a-ef637bcad8d2" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='amazon.in/ap/signin?openid.pape.max_auth_age=0&amp;amp;openid.return_to=https%3A%2F%2Fwww.amazon.in%2F%3F_encoding%3DUTF8%26adgrpid%3D155259813593%26gad_source%3D1%26hvadid%3D674893540034%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9298655%26hvnetw%3Dg%26hvpone%3D%26hvpos%3D%26hvptwo%3D%26hvqmt%3De%26hvrand%3D3157940369166979266%26hvtargid%3Dkwd-64107830%26hydadcr%3D14452_2316413%26ref%3Dpd_sl_5szpgfto9i_e%26tag%3Dgooghydrabk1-21%26ref_%3Dnav_em_hd_re_signin&amp;amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;amp;openid.assoc_handle=inflex&amp;amp;openid.mode=checkid_setup&amp;amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;amp;ref_%3Dnav_em_hd_clc_signin_0_1_1_40' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="25c12225-06e3-4318-ae12-5a34b087afbc" CvTextArea="747, 407, 300, 19" CvTextArgument="Enter mobile number or email" CvType="Text" DesignTimeRectangle="749, 402, 445, 30" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='P' type='' class='a-spacing-micro a-text-bold' aaname='     Enter mobile number or email   ' check:innerText='Enter mobile number or email' /&gt;" Guid="2fe960a0-443c-4cfb-bda6-edad1630157a" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a51dd5a12b71421c66997f3329011977.png" xmlns="">0Hi3U0S7lukeLzqnUlpywQw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

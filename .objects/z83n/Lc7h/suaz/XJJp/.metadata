@@ -1,0 +1,13 @@
+﻿{
+  "Name": "AllUnreadFavouritesGrou…",
+  "Type": "Element",
+  "Id": "XJJpapnfRUqJUgS8kUMbbQ",
+  "Reference": "F1j2IxBBTk60Ox0IA5q1Ww/XJJpapnfRUqJUgS8kUMbbQ",
+  "ParentRef": "F1j2IxBBTk60Ox0IA5q1Ww/suazJYqwLkKig80yk7YXoA",
+  "Created": "2025-04-02T14:04:22.3600564Z",
+  "Updated": "2025-04-02T14:04:22.3600564Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

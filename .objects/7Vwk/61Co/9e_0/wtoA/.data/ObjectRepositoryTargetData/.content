@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="_HRmf0YnZEqI-XDS61Tf7g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in/ax/claim" CVScreenId="da2734ff-3eb0-490a-a7d3-c36e79bf4912" CvElementArea="740, 580, 462, 49" CvTextArea="842, 594, 258, 20" CvTextArgument="Proceed to create an account" CvType="Button" DesignTimeRectangle="744, 583, 455, 43" DesignTimeScaleFactor="1.5" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='submit' class='a-button-input' aaname='' /&gt;" Guid="2ee39287-e6d4-4287-8702-d71b73acdca5" ScopeSelectorArgument="&lt;html app='chrome.exe' title='amazon.in/ax/claim?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;amp;openid.return_to=https%3A%2F%2Fwww.amazon.in%2F%3F_encoding%3DUTF8%26adgrpid%3D155259813593%26gad_source%3D1%26hvadid%3D674893540034%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9298655%26hvnetw%3Dg%26hvpone%3D%26hvpos%3D%26hvptwo%3D%26hvqmt%3De%26hvrand%3D3157940369166979266%26hvtargid%3Dkwd-64107830%26hydadcr%3D14452_2316413%26ref%3Dpd_sl_5szpgfto9i_e%26tag%3Dgooghydrabk1-21%26ref_%3Dnav_em_hd_re_signin&amp;amp;policy_handle=Retail-Checkout&amp;amp;openid.mode=checkid_setup&amp;amp;openid.assoc_handle=inflex&amp;amp;arb=7bb6d2ef-532c-4b7d-a543-46a3bca4965d' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="743, 504, 457, 60" ElementType="Text" FuzzySelectorArgument="&lt;webctrl isleaf='1' tag='P' type='' class='a-spacing-none a-spacing-top-base' aaname='     Let&amp;apos;s create an account using your mobile number   ' check:innerText='Let&amp;apos;s create an account using your mobile number' /&gt;" Guid="ff8e8954-9cc2-4504-a8ac-a0fc423674de" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="27e69d6fea871af5cb40860cf5863b05.png" xmlns="">0ZaqLcrboNkyyepxwwssmrQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

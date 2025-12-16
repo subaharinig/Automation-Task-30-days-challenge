@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4jSZABcV7UGZU2Ac4W0X0A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.co.in" CVScreenId="ac49d3e4-76a2-475d-9756-a218f97bdb28" DesignTimeRectangle="1276, 792, 530, 36" DesignTimeScaleFactor="1.5" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Add date' idx='2' parentid='app-root' tag='SPAN' /&gt;" Guid="c7c8dc2b-8d31-4a35-83a2-120e6c053f4b" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='_new' title='Flight Ticket Booking: Cheap Flights &amp;amp; Air Tickets | Skyscanner' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1252, 741, 578, 108" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aria-label='Please select your departure date' type='button' tag='BUTTON' class='SearchControlButton_SearchControlBtn__YzUyO SearchControlButton_MultiCityDate__NWVjN' aaname='DepartAdd date' check:innerText='Depart&amp;#xA;Add date' /&gt;" Guid="c256778e-7d31-49ea-b28c-ac4093b6550e" SearchSteps="FuzzySelector" />
+          <Target CVScreenId="ac49d3e4-76a2-475d-9756-a218f97bdb28" CvTextArea="81, 462, 965, 42" CvTextArgument="Millions of cheap flights. One simple search." CvType="Text" DesignTimeRectangle="83, 453, 1753, 60" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H2' type='' class='BpkText_bpk-text__MjhhY BpkText_bpk-text--heading-2__NjVkN Homepage_headerStrapline__OWVjZ' aaname='Millions of cheap flights. One simple search. ' check:innerText='Millions of cheap flights. One simple search.' /&gt;" Guid="c53f0954-34df-4c80-9b3c-436379cd4388" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ee9ecc0eb1e8176cc6ed08dc99f45474.png" xmlns="">0ikqF07GkY0-8DSSga0bCiA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

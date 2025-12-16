@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Dfv9bML7KE2qcFny7oKYwQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="newtab" CVScreenId="f2fbde30-75bb-47bb-a22b-af46f57594cb" CvTextArea="488, 689, 306, 22" CvTextArgument="Search Google or type a URL" CvType="Text" DesignTimeRectangle="411, 663, 1120, 72" DesignTimeScaleFactor="1.5" ElementType="DropDown" FullSelectorArgument="&lt;ctrl name='New Tab' role='document' /&gt;&lt;ctrl name='Search Google or type a URL' role='combo box' /&gt;" FuzzySelectorArgument="&lt;ctrl name='New Tab' role='document' /&gt;&lt;ctrl name='Search Google or type a URL' role='combo box' automationid='' /&gt;" Guid="008cf7ed-da01-47e9-987d-b65598cb559c" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='New Tab - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="f2fbde30-75bb-47bb-a22b-af46f57594cb" CvTextArea="344, 882, 79, 25" CvTextArgument="YouTube" CvType="Text" DesignTimeRectangle="299, 762, 168, 168" ElementType="Text" FullSelectorArgument="&lt;ctrl name='New Tab' role='document' /&gt;&lt;ctrl name='YouTube' role='link' /&gt;" FuzzySelectorArgument="&lt;ctrl name='New Tab' role='document' /&gt;&lt;ctrl name='YouTube' role='link' automationid='' check:text='https://www.youtube.com/' /&gt;" Guid="e5f00308-b4f0-4880-a0ba-faff60d8ebc0" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b636b3a3be9c5bb7a90eb472b633666e.png" xmlns="">0yRNCmpvK30y9ITJ-N7kMBA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

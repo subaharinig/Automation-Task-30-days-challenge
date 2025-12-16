@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome google translate - Google Search",
+  "Type": "App",
+  "Id": "UVpHyWyWD0uBssD-6HCLZw",
+  "Reference": "F1j2IxBBTk60Ox0IA5q1Ww/UVpHyWyWD0uBssD-6HCLZw",
+  "Created": "2025-06-02T14:36:42.030375Z",
+  "Updated": "2025-06-02T14:36:42.030375Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

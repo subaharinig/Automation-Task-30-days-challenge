@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome google translate - Google Search",
+  "Type": "Screen",
+  "Id": "I8lgZJh5iUOz0cRPLbUmmw",
+  "Reference": "F1j2IxBBTk60Ox0IA5q1Ww/I8lgZJh5iUOz0cRPLbUmmw",
+  "ParentRef": "F1j2IxBBTk60Ox0IA5q1Ww/tBh4SHm1iEqhHmkvaA5lPg",
+  "Created": "2025-06-02T14:36:42.3230176Z",
+  "Updated": "2025-06-02T14:36:42.3230176Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

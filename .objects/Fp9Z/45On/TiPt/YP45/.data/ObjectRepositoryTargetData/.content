@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ygtb15Qmx068uJn8rRWrTw" Reference="F1j2IxBBTk60Ox0IA5q1Ww/YP45ChwxiUyIXSGADcKceQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.makemytrip.com/flight/search?itinerary=MAA-BLR-02/06/2025&amp;tripType=O&amp;paxType=A-1_C-0_I-0&amp;intl=false&amp;cabinClass=E&amp;lang=eng" ContentHash="JqdeWqvvKU2WI4xtK0F1tw" DesignTimeRectangle="540, 392, 1320, 3816" DesignTimeScaleFactor="1.5" FullSelectorArgument="&lt;webctrl class='clusterContent' parentid='listing-id' tag='DIV' /&gt;" Guid="5b2a9f79-a882-405b-a621-1c6b2f3a920c" Reference="F1j2IxBBTk60Ox0IA5q1Ww/YP45ChwxiUyIXSGADcKceQ" ScopeSelectorArgument="&lt;html app='chrome.exe' title='MakeMyTrip' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="22a9b20bf40e2cadd8ba289da4968c30.png" xmlns="">0KNXdo77130KQgFJrPXAdBQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">ExtractData</x:String>
+    <p:InArgument x:TypeArguments="x:String" x:Key="ExtractDataSettings" xml:space="preserve">&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Structured' AddCvHeader='true' IsScrollEnabled='false'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column0' Name='New column 0'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+&lt;/Table&gt;</p:InArgument>
+    <x:Null x:Key="NextLinkTarget" />
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

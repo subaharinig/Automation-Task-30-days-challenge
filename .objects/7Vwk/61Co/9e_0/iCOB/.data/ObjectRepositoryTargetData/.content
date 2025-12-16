@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Gs2HUYV9OkG3cdrjTHVgLA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in" CVScreenId="08ab081d-f283-4106-a49c-4417296ccc36" CvElementArea="608, 231, 652, 64" CvType="InputBox" DesignTimeRectangle="616, 235, 634, 57" DesignTimeScaleFactor="1.5" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='twotabsearchtextbox' tag='INPUT' type='text' class='nav-input nav-progressive-attribute' placeholder='Search Amazon.in' aaname='Search Amazon.in' /&gt;" Guid="3dc949e7-49fa-4733-b15b-0294c5aa66fb" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="08ab081d-f283-4106-a49c-4417296ccc36" CvElementArea="536, 234, 83, 62" CvType="InputBox" DesignTimeRectangle="555, 240, 29, 49" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='nav-search-label-id' tag='SPAN' type='' class='nav-search-label nav-progressive-content' aaname='All' check:innerText='All' /&gt;" Guid="55b022e1-5726-40ac-a85d-3262476c3b47" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c854f7906f5be8a32d534db1d9fd7988.png" xmlns="">03ZhUfRf8Vkm07yiZGY6Axg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

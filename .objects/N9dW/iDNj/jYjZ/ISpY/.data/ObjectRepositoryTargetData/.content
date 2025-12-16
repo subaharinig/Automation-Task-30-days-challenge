@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="lFuUZw6Urk2g96FMfxVk5w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="geeksforgeeks.org/courses" CVScreenId="40e450ab-0fa2-4ba2-9ba5-c53d3b5ae98f" CvElementArea="604, 851, 706, 62" CvTextArea="921, 870, 73, 27" CvTextArgument="Sign In" CvType="Button" DesignTimeRectangle="894, 857, 130, 51" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='notSocialLoginBtnText' tag='SPAN' type='' /&gt;" Guid="dfedc1be-8962-48b9-b84e-1d84e21db846" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Courses GeeksforGeeks | Interactive LIVE and Self-Paced Courses' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="40e450ab-0fa2-4ba2-9ba5-c53d3b5ae98f" CvElementArea="604, 851, 706, 62" CvTextArea="921, 870, 73, 27" CvTextArgument="Sign In" CvType="Button" DesignTimeRectangle="608, 853, 703, 59" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' class='loginBtn btnGreen notSocialAuthBtn' aaname='Sign In' check:innerText='Sign In' /&gt;" Guid="5ccc8181-fac5-4b6d-908d-9c9a621906cb" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b73359e77f38513cbdb3f52171a66366.png" xmlns="">04a1aAtf45UiTOefKOwcnKQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Flight Ticket Booking Cheap Flights & Air Tickets  Skyscanner",
+  "Type": "App",
+  "Id": "Fp9ZsM3TGU268Pdfo9jkdA",
+  "Reference": "F1j2IxBBTk60Ox0IA5q1Ww/Fp9ZsM3TGU268Pdfo9jkdA",
+  "Created": "2025-04-03T15:57:08.9233503Z",
+  "Updated": "2025-04-03T15:57:08.9233503Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

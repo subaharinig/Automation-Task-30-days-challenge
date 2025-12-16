@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="TBHBuTWtPkGvYZ3231UqZQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in/ax/claim" CVScreenId="53c6514c-e651-4a5f-bb1b-871de2bf3477" CvTextArea="740, 744, 351, 24" CvTextArgument="Sign in with another email or mobile" CvType="Text" DesignTimeRectangle="743, 742, 347, 26" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='         Sign in with another email or mobile       ' parentid='intent-confirmation-container' tag='A' type='' class='a-link-normal signin-with-another-account' check:innerText='Sign in with another email or mobile' /&gt;" Guid="61fd4382-bc5c-4f56-ad58-1cb486ed8042" ScopeSelectorArgument="&lt;html app='chrome.exe' title='amazon.in/ax/claim?openid.assoc_handle=inflex&amp;amp;openid.mode=checkid_setup&amp;amp;policy_handle=Retail-Checkout&amp;amp;openid.return_to=https%3A%2F%2Fwww.amazon.in%2Fgp%2Fyourstore%2Fhome%3Fpath%3D%252Fgp%252Fyourstore%252Fhome%26signIn%3D1%26useRedirectOnSuccess%3D1%26action%3Dsign-out%26ref_%3Dnav_AccountFlyout_signout&amp;amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;amp;arb=758e3ec7-ea12-47a4-90ab-b824d8812760' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="53c6514c-e651-4a5f-bb1b-871de2bf3477" CvTextArea="740, 693, 202, 24" CvTextArgument="Already a customer?" CvType="Text" DesignTimeRectangle="743, 691, 199, 26" ElementType="Text" FuzzySelectorArgument="&lt;webctrl isleaf='1' parentid='intent-confirmation-container' tag='SPAN' type='' class='already-a-customer a-text-bold' aaname='         Already a customer?       ' check:innerText='Already a customer?' /&gt;" Guid="c9394bdc-43b8-4c78-b91c-4162d16b957c" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a1bb8b687fdc51242afaf4d912cfd494.png" xmlns="">0IRG8P5XBq0iUVEo-7swL3w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

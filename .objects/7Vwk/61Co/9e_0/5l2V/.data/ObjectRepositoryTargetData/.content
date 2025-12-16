@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="DJn0eLCscE2vteKXI9wMdg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in" CVScreenId="89064b82-2217-4c7d-b8a9-54f3f7e5f3c3" CvTextArea="63, 906, 66, 24" CvTextArgument="Sign in" CvType="Text" DesignTimeRectangle="11, 885, 525, 63" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Sign in' class='hmenu-item' parentid='hmenu-content' tag='A' type='' check:innerText='Sign in' /&gt;" Guid="7ba4bf6b-fce3-42b5-8a27-33f8c6433d51" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="89064b82-2217-4c7d-b8a9-54f3f7e5f3c3" CvTextArea="63, 840, 168, 18" CvTextArgument="Customer Service" CvType="Text" DesignTimeRectangle="11, 819, 525, 63" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Customer Service' class='hmenu-item' parentid='hmenu-content' tag='A' type='' check:innerText='Customer Service' /&gt;" Guid="e8b26cd1-5fca-4990-8dea-9bfc265e2754" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2ef277ca39f951568098ee668a05482d.png" xmlns="">0VP0Oq25kJUCFgAAbTzy_tw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

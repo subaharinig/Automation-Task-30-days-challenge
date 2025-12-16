@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="zvUGPYSnxE27pj3T6TEIFQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="geeksforgeeks.org/courses" CVScreenId="df2eba67-6a73-479b-ae57-8cffb3094a47" CvElementArea="605, 676, 708, 61" CvType="InputBox" DesignTimeRectangle="608, 678, 703, 58" DesignTimeScaleFactor="1.5" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' class='mb15 next_input loginInput noIconInput ' placeholder='Username or Email' aaname='' /&gt;" Guid="cf32cf41-b38e-4586-9238-66f1a2190ed5" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Courses GeeksforGeeks | Interactive LIVE and Self-Paced Courses' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="df2eba67-6a73-479b-ae57-8cffb3094a47" CvTextArea="606, 630, 195, 23" CvTextArgument="Username or Email" CvType="Text" DesignTimeRectangle="608, 626, 703, 34" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='loginInputLabel' aaname='Username or Email' check:innerText='Username or Email' /&gt;" Guid="33baa271-62a0-4bc7-8635-5eb5801c128e" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="87a6901888b7ea604cba65463ffc49d1.png" xmlns="">0klifamDwt0qSa9bXWiASdw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

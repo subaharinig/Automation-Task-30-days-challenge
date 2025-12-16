@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4vcXFAMiqEiQRF4rRe-tCg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="makemytrip.com/flights" CVScreenId="b6bbe2af-fd76-478e-9a7b-aa99d7ad4f13" CvTextArea="135, 639, 55, 21" CvTextArgument="From" CvType="Text" DesignTimeRectangle="91, 619, 474, 62" DesignTimeScaleFactor="1.5" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl type='text' tag='INPUT' class='react-autosuggest__input react-autosuggest__input--open react-autosuggest__input--focused' placeholder='From' aaname='' /&gt;" Guid="5940cb73-1839-40d3-9a5c-154644162c37" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Flight Booking, Cheap Flights , Air Ticket Booking at Lowest Airfare | MakeMyTrip' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d63d19ccc57bf0b4eae3255c33c2da22.png" xmlns="">0-em9tn0o8UC2WXB5rXnkjQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

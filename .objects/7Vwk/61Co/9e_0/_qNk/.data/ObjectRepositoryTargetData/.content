@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RwfI8UU9kEWoqXkElx_wLg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in/ap/signin" CVScreenId="2160bb89-4613-47d4-a264-6474ca9dd6ee" CvElementArea="744, 436, 452, 53" CvType="InputBox" DesignTimeRectangle="750, 439, 443, 46" DesignTimeScaleFactor="1.5" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='ap_email_login' tag='INPUT' type='email' class='a-input-text' aaname='' /&gt;" Guid="4d049057-2ad0-47b9-b5f3-ca2d37ffdd43" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='amazon.in/ap/signin?openid.pape.max_auth_age=0&amp;amp;openid.return_to=https%3A%2F%2Fwww.amazon.in%2F%3F%26tag%3Dgooghydrabk1-21%26ref%3Dnav_ya_signin%26adgrpid%3D155259813593%26hvpone%3D%26hvptwo%3D%26hvadid%3D674893540034%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D5830038587512835117%26hvqmt%3De%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9298655%26hvtargid%3Dkwd-64107830%26hydadcr%3D14452_2316413%26gad_source%3D1&amp;amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;amp;openid.assoc_handle=inflex&amp;amp;openid.mode=checkid_setup&amp;amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="2160bb89-4613-47d4-a264-6474ca9dd6ee" CvTextArea="747, 405, 300, 21" CvTextArgument="Enter mobile number or email" CvType="Text" DesignTimeRectangle="749, 402, 445, 30" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='P' type='' class='a-spacing-micro a-text-bold' aaname='     Enter mobile number or email   ' check:innerText='Enter mobile number or email' /&gt;" Guid="aca4ae89-fdbd-4695-956c-583f12475995" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2adf6827cb73c4f765d40a640e02e880.png" xmlns="">0veZ4rlhFIEGRqVqS3-yGew</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

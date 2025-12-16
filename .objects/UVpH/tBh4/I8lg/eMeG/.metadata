@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Translation...... Learn…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "eMeGIjfIDkKESBSeTnd6bg",
+  "Reference": "F1j2IxBBTk60Ox0IA5q1Ww/eMeGIjfIDkKESBSeTnd6bg",
+  "ParentRef": "F1j2IxBBTk60Ox0IA5q1Ww/I8lgZJh5iUOz0cRPLbUmmw",
+  "Created": "2025-06-02T14:44:46.9271478Z",
+  "Updated": "2025-06-02T14:44:46.9271478Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

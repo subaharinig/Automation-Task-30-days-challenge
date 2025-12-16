@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="2io8SDUKRUCewbxjjnVt4Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="geeksforgeeks.org/courses" CVScreenId="73589040-1b5c-4705-ae58-9bd196457fe7" CvElementArea="604, 691, 709, 63" CvType="InputBox" DesignTimeRectangle="608, 693, 703, 58" DesignTimeScaleFactor="1.5" ElementType="InputBoxPassword" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='password' class='next_input loginInput noIconInput ' placeholder='Enter password' aaname='' /&gt;" Guid="4bdbf4f2-565d-44a8-9646-fe29ea2ab17f" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Courses GeeksforGeeks | Interactive LIVE and Self-Paced Courses' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="73589040-1b5c-4705-ae58-9bd196457fe7" CvTextArea="606, 645, 99, 22" CvTextArgument="Password" CvType="Text" DesignTimeRectangle="608, 641, 703, 34" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Password' tag='LABEL' type='' class='loginInputLabel' check:innerText='Password' /&gt;" Guid="a6096786-d2c4-4845-a282-53d29aee55c8" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a2ae156498bbe5714eca4270c9810fc8.png" xmlns="">0tA5O8UoZgkidtDhxPOUOOg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

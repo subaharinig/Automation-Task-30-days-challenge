@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome (946) St. Joseph's College of Engineer",
+  "Type": "Screen",
+  "Id": "Vxx55Z3nLkKu40oqbnqSIg",
+  "Reference": "F1j2IxBBTk60Ox0IA5q1Ww/Vxx55Z3nLkKu40oqbnqSIg",
+  "ParentRef": "F1j2IxBBTk60Ox0IA5q1Ww/DvjKiYdNv06DqN_0iD0HuQ",
+  "Created": "2025-04-18T13:38:22.2947162Z",
+  "Updated": "2025-04-18T13:38:22.2947162Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

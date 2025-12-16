@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3qB1Z2ws7UKd5jBAfBmfEg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.co.in" CVScreenId="c3baa136-c6c2-4267-a7cc-87004d8c3d5e" CvTextArea="651, 599, 153, 25" CvTextArgument="City or airport" CvType="Text" DesignTimeRectangle="653, 591, 493, 36" DesignTimeScaleFactor="1.5" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl aria-labelledby='destinationInput1-label' tag='INPUT' type='text' class='AutoSuggest_input__ZjdlO' placeholder='City or airport' aaname='To' /&gt;" Guid="1939e8ea-963d-404d-bb7c-6077f1e7758d" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Flight Ticket Booking: Cheap Flights &amp;amp; Air Tickets | Skyscanner' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="629, 540, 541, 108" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aria-label='. Enter your destination, or choose from the options below' type='' tag='LABEL' class='AutoSuggest_label__NWU0Y DestinationSearchControlGroup_DesktopDestinationLabel__NWI5N' aaname='' check:innerText='To' /&gt;" Guid="501bbd81-54ef-41b0-bb8e-8f6cf96f1b70" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b6ac4e80aa8d36ca7913c7762fb2d7d2.png" xmlns="">0VR6_diqFk0OUMEurrRYZ2A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

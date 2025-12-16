@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="ct-SbE16_06FVyWB8T8Esg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-11, -11, 1942, 1030" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAEoSURBVDhP1dLPK4RBHMfxZ/1q16+2JPsHOEpuIkV74k9wcXCa3JwcuEoppSQZpZSi9qDktHflPxBOJLUS4qSE93fnM3n2OeyZb716Zj4zzzzPTJP8w/KuBdNYwLwFAyldmmZ5d2asoDyHCRxi14IjXOEaG2hDAV7ZpZ4ryGmREs6waJ1ZvOEbTxiD/eK7sugOw1qgiHGcW6cTFcSJJ6iq/YUPtc0W8ljCHir1BWmU8QKb9CnWvsca4t/UMArbgp1DKS7QgQPEL0Wb6MVpKttHe3gxXWHvj5pkbjGksRnEc3rGVD1vKO9asa1JZlUjNmb7PlZu25vTSKa8G8EDbjCoNJR3k3jFBfqVZipcknUsK/kt27d3O+D2Natw6/rUa6xw+j3q/YlKkh83NMoSjdkVhQAAAABJRU5ErkJggg==" Selector="&lt;html app='chrome.exe' title='HTML Tables' /&gt;" Url="https://www.w3schools.com/html/html_tables.asp" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="14936867791c4a87601c991050fcfe0b.jpg" xmlns="">0Ly4CUzKcLU26alE3JqG2Zw</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

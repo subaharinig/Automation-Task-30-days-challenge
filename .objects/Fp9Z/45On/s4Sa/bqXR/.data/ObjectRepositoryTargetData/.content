@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PfUqPNN-ikGROpEZlrmxPQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.co.in/transport/d/maa/2025-04-10/dps/dps/2025-04-17/maa" CVScreenId="cc7fe6c4-a04c-40df-8c8f-329cf045425b" CvElementArea="1159, 470, 154, 58" CvTextArea="1182, 488, 76, 21" CvTextArgument="Select" CvType="Button" DesignTimeRectangle="1161, 471, 150, 54" DesignTimeScaleFactor="1.5" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='Select ' parentid='app-root' tag='BUTTON' type='button' class='BpkButton_bpk-button__YTVmN bpk-button--primary' check:innerText='Select' /&gt;" Guid="18375f59-d71d-4692-9acb-cf4c8c6f08b0" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='_new' title='Cheap flights from Chennai to Denpasar at Skyscanner' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="472, 379, 582, 167" FuzzySelectorArgument="&lt;webctrl class='UpperTicketBody_legsContainer__ZGUwO' parentid='app-root' tag='DIV' type='' aaname='' check:innerText='00:05&amp;#xA;MAA&amp;#xA;10h 25&amp;#xA;1 stop&amp;#xA; &amp;#xA;SIN&amp;#xA;13:00&amp;#xA;DPS&amp;#xA;21:25&amp;#xA;DPS&amp;#xA;12h 50&amp;#xA;1 stop&amp;#xA; &amp;#xA;KUL&amp;#xA;07:45&amp;#xA;+1&amp;#xA;MAA' /&gt;" Guid="4b0ce9a6-f514-4612-97d1-bdff746bca81" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f475cb45ab849478d265d1179f2224c6.png" xmlns="">0W7apjbSKr06qlaW4DcgADQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

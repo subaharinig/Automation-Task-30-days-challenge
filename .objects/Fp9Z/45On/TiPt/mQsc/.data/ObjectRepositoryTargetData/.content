@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="YLq_1ziYt0a2iYDn_-5DFA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="makemytrip.com/flights" CVScreenId="2d36cc9f-efeb-45f3-b4b1-4ba0b77e616a" CvElementArea="792, 874, 334, 72" CvTextArea="887, 894, 141, 33" CvTextArgument="SEARCH" CvType="Button" DesignTimeRectangle="798, 877, 324, 66" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Search' parentid='top-banner' tag='A' type='' class='primaryBtn font24 latoBold widgetSearchBtn ' check:innerText='SEARCH' /&gt;" Guid="e89b27ed-ead5-4c14-ac49-3b2ed78f6903" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Flight Booking, Cheap Flights , Air Ticket Booking at Lowest Airfare | MakeMyTrip' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d0ea75b2047e022ceee9b18563b4f557.png" xmlns="">0qkeqzm1a9keBSucftMALaw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

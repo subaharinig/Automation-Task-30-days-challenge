@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="DJCB6UO5ikW0Ao_Bdn6I7A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="d50243ce-3fc2-4fc5-8848-6d5450682232" CvTextArea="203, 543, 244, 21" CvTextArgument="https://www.amazon.in &gt; home" CvType="Text" DesignTimeRectangle="206, 543, 241, 20" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aria-role='text' tag='SPAN' type='' class='x2VHCd OSrXXb ob9lvb' aaname='https://www.amazon.in › home' check:innerText='https://www.amazon.in › home' /&gt;" Guid="916b766d-e70e-471e-96a2-1dc4a636b6bb" ScopeSelectorArgument="&lt;html app='chrome.exe' title='amazon - Google Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d50243ce-3fc2-4fc5-8848-6d5450682232" CvTextArea="144, 579, 384, 33" CvTextArgument="Shop online at Amazon India" CvType="Text" DesignTimeRectangle="147, 577, 381, 33" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Shop online at Amazon India' parentid='tads' tag='SPAN' type='' class='' check:innerText='Shop online at Amazon India' /&gt;" Guid="6bdb9829-a153-40c3-b86b-7327d5c9647b" SearchSteps="FuzzySelector, CV" />
+          <Target DesignTimeRectangle="164, 533, 58, 14" Guid="a68c67d9-8c04-4686-abd1-f279166c32d3" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAADoAAAAOCAYAAAB+UA+TAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAJJSURBVEhLzZU/aBNhGMYPtEnsoEUsZjBpoQWbThaLWDuZVOxWsIMFd+viokNjF7uJOgiaBCrW6GDFiAhqKgZUQkAHDXbQRCzWSKUSpUaaNjF/f37fcURizv6xw+WBZzju4H1/937v8ynHh4c50NvLnq4udnd0sMtmw2SxsLmhoeKJiQnWq3fvP3Dy1AhN2611YcX8F5Se/wf0a/IbFy55dIsaYWWTANnW1MRBpxOP10soFMJmt28YdGk5g+/aTd2iRliRIGfHxkin02qD+Xyetvb2DYMWi0XG/bd0ixphFTSZTGrtQSKRwN7SUgXq9fnUxterqzcmdYsaYRU0m81qrcGdQIAdzc1VoCNuN4vaxNequpyoT0xMKhaL4XS5aDCZKpByhx2dnbyZnla/Wavqcke3NDbS4XCooSSfTWZzBVS1AD8zOkqpVNIwVpdM3fP1lLpVQMI7rVaODg1V9tQifsLe7m4ikQjlclnDWF11d4/KYyonKMFcfX14xRWTSqUIiF3d39PDkcFBwuEwhUJBRPISZERw/foB5ZXD6cFUiEP9A7pFjbBy3e/HLxwMBonH4+RyObVRGSavo1FmZmYo5UQQzd6GF8cgPADR07D4Uf3uX5KJ29rm0C1qhBWtr5VVzMD8c/gyJe6fSXjaD99faS9r9enzHOcuXtYtaJTXBpqKw8sTEDDB3CN4dhiW57WXtbp7/2FdHVtphVkxoQUxnZ9v/1g+y6MadcPjfaLzrWLpWsVEn4iJ3oP4FQ2pVjJtPeN+3WLG2cpv2YRl8ldx3oEAAAAASUVORK5CYII=" SearchSteps="Image" TargetType="ImageBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="bb5c2f763641e9b99cb6e9e9fef590ab.png" xmlns="">086bSLouCBE-VImjLhYCKXQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

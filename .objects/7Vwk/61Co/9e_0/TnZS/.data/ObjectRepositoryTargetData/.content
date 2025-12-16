@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="aw751Cdm8EyKAQkUt4EyeA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in/ap/signin" CVScreenId="38d3ec1a-9b20-4332-9e81-738544335826" CvElementArea="747, 501, 448, 51" CvTextArea="930, 516, 82, 19" CvTextArgument="Continue" CvType="Button" DesignTimeRectangle="750, 505, 443, 44" DesignTimeScaleFactor="1.5" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='submit' class='a-button-input' aaname='' /&gt;" Guid="cabd0809-5d8c-44e0-83c5-9863cc1b827a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='amazon.in/ap/signin?openid.pape.max_auth_age=900&amp;amp;openid.return_to=https%3A%2F%2Fwww.amazon.in%2Fgp%2Fyourstore%2Fhome%3Fpath%3D%252Fgp%252Fyourstore%252Fhome%26signIn%3D1%26useRedirectOnSuccess%3D1%26action%3Dsign-out%26ref_%3Dnav_AccountFlyout_signout&amp;amp;openid.assoc_handle=inflex&amp;amp;openid.mode=checkid_setup&amp;amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="38d3ec1a-9b20-4332-9e81-738544335826" CvElementArea="746, 436, 450, 52" CvType="InputBox" DesignTimeRectangle="750, 439, 443, 46" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='ap_email_login' tag='INPUT' type='email' class='a-input-text' aaname='' /&gt;" Guid="b2304177-7f8e-44d1-b530-948fd9951e4a" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1d0471a645b2114763932863d4539836.png" xmlns="">00wtowlrL7kiZq3g6QawcOw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

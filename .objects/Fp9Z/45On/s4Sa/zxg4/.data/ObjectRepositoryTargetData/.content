@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1zO6fKTbeUy78_RqkOi39g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="makemytrip.com/flights" DesignTimeRectangle="991, 566, 236, 149" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' tag='LABEL' class='' aaname='' /&gt;" Guid="3717d89c-0b77-4246-8a62-3a7868bc1b5e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Flight Booking, Cheap Flights , Air Ticket Booking at Lowest Airfare | MakeMyTrip' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1017f7c8-1612-4758-860e-e0651df19c77" CvElementArea="1120, 583, 27, 24" CvTextArea="1017, 585, 97, 22" CvTextArgument="Departure" CvType="ArrowButton" DesignTimeRectangle="1019, 581, 179, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Departure' parentid='top-banner' tag='SPAN' type='' class='lbl_input appendBottom10' check:innerText='Departure' /&gt;" Guid="0eacec45-79b4-4903-9e77-b349e3afd95b" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3bc31ae77fbb8151d88c1160c235beba.png" xmlns="">00RlNq7xgGk2TTsBmNkKuOw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

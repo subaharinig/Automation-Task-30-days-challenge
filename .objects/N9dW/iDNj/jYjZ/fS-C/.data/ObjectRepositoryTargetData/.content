@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BEHoPfFzHESp03CYxD8kLQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="newtab" CVScreenId="e1c04fb8-6bbc-4afa-ae0b-bf83fa9226df" CvTextArea="488, 689, 306, 22" CvTextArgument="Search Google or type a URL" CvType="Text" DesignTimeRectangle="411, 663, 1120, 72" DesignTimeScaleFactor="1.5" FullSelectorArgument="&lt;ctrl name='New Tab' role='document' /&gt;&lt;ctrl name='Search Google or type a URL' role='combo box' /&gt;" FuzzySelectorArgument="&lt;ctrl name='New Tab' role='document' /&gt;&lt;ctrl name='Search Google or type a URL' role='combo box' automationid='' /&gt;" Guid="9fb5f459-7ba0-4608-94b3-1424dc8736da" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='New Tab - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e1c04fb8-6bbc-4afa-ae0b-bf83fa9226df" CvTextArea="758, 461, 417, 148" CvTextArgument="Google" CvType="Text" DesignTimeRectangle="758, 461, 417, 148" ElementType="Text" Guid="a60bdca2-2704-4427-8401-1bb3dfdb2b58" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4c7bdbc94d5ad48e524c849e927f1572.png" xmlns="">0rMltkkwNbUW2pQ1RChPy4A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

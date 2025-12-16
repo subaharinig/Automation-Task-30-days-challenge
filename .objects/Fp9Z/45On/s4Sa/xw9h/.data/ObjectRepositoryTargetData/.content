@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="tP28RlJAbEC7jOF15_tcEQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="skyscanner.co.in" CVScreenId="995239ac-8373-48bf-a7a3-f37339966afd" CvElementArea="1521, 849, 317, 113" CvTextArea="1638, 896, 81, 21" CvTextArgument="Search" CvType="Button" DesignTimeRectangle="1524, 852, 312, 108" DesignTimeScaleFactor="1.5" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='Search' parentid='app-root' tag='BUTTON' type='button' class='BpkButton_bpk-button__OTE4Z BpkButton_bpk-button--large__NTAyN BpkButton_bpk-button--featured__NTk3N MultiCitySearchControls_SearchButton__MTZmZ' check:innerText='Search' /&gt;" Guid="84803bbd-f40c-4dda-bc0e-f2643287cc7b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Flight Ticket Booking: Cheap Flights &amp;amp; Air Tickets | Skyscanner' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="995239ac-8373-48bf-a7a3-f37339966afd" CvElementArea="1521, 849, 317, 113" CvType="Button" DesignTimeRectangle="83, 852, 1753, 108" FuzzySelectorArgument="&lt;webctrl type='' class='MultiCitySearchControls_MultiCityFooter__NGY5Y' parentid='app-root' tag='DIV' aaname='' check:innerText='Travellers and cabin class&amp;#xA;1 Adult, Economy&amp;#xA;Travellers and cabin class, 1 Adult, Economy&amp;#xA;Search' /&gt;" Guid="cefda836-1201-4c3c-80ec-76bcd56789df" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="de74151e4ef06cd9f2268aab4a91fcdc.png" xmlns="">0UGxUN3nOI0Sf-BnA29p7Xw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1ub4KE2Jvke1i9RH_P4YXQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="makemytrip.com/flights" CVScreenId="4e80debc-82b7-4329-83ee-dae67f9341f1" CvElementArea="790, 873, 336, 73" CvTextArea="887, 894, 141, 33" CvTextArgument="SEARCH" CvType="Button" DesignTimeRectangle="798, 877, 324, 66" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Search' parentid='top-banner' tag='A' type='' class='primaryBtn font24 latoBold widgetSearchBtn ' check:innerText='SEARCH' /&gt;" Guid="b9de3ba5-5e71-4deb-a84d-40da4a3f58d4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Flight Booking, Cheap Flights , Air Ticket Booking at Lowest Airfare | MakeMyTrip' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="90, 549, 1740, 362" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' idx='2' parentid='top-banner' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' class='fsw ' parentid='top-banner' tag='DIV' aaname='' check:innerText='From&amp;#xA;&amp;#xA;MAA, Chennai International Airport India&amp;#xA;&amp;#xA;⇌&amp;#xA;To&amp;#xA;&amp;#xA;BLR, Bengaluru International Airport India&amp;#xA;' /&gt;" Guid="abfaa045-88e2-4789-b211-aa04cc294af7" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3a65511f89c073f2b2fc4b379b327d0d.png" xmlns="">0V09i-Z25dEaEj3iMv9TF6g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

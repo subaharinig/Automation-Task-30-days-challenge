@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="MtatuD63aESslFO5gmDR0A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in" CVScreenId="7cab40a8-9b45-418e-ae76-541216d8c2c6" CvElementArea="1612, 261, 26, 27" CvTextArea="1457, 263, 154, 21" CvTextArgument="Account &amp; Lists" CvType="ArrowButton" DesignTimeRectangle="1460, 263, 171, 22" DesignTimeScaleFactor="1.5" FuzzySelectorArgument="&lt;webctrl aaname='Account &amp;amp; Lists   ' parentid='nav-link-accountList' tag='SPAN' type='' class='nav-line-2 ' check:innerText='Account &amp;amp; Lists' /&gt;" Guid="e1b0d1d2-37b5-4cb9-bc99-69074c503c49" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="7cab40a8-9b45-418e-ae76-541216d8c2c6" CvTextArea="1458, 242, 108, 21" CvTextArgument="Hello, sign in" CvType="Text" DesignTimeRectangle="1460, 242, 106, 21" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='nav-link-accountList-nav-line-1' tag='SPAN' type='' class='nav-line-1 nav-progressive-content' aaname='Hello, sign in' check:innerText='Hello, sign in' /&gt;" Guid="cd9901fa-1f07-4af2-824f-5c421260dead" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ae3d64571cdbbb215aac16f828a0336a.png" xmlns="">042ySwU0HiUy9gc2hMp8pmQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

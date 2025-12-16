@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="eg3s3q6cVkusctoesbsNeA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="youtube.com/@stjosepscollegeofengineering" CVScreenId="2c9c89d7-2f05-4ef5-b135-d325c014f223" CvElementArea="574, 227, 648, 51" CvType="InputBox" DesignTimeRectangle="598, 238, 590, 29" DesignTimeScaleFactor="1.2000000476837158" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='Search' aaname='' /&gt;" Guid="d937a717-1bb6-4843-9462-e64c0fb20aa2" ScopeSelectorArgument="&lt;html app='chrome.exe' title='(946) St. Joseph&amp;apos;s College of Engineering - YouTube' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="087399f65bcdf8c672b2134c6a1637f6.png" xmlns="">034c7xqGKTki6U9e33enbdg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
